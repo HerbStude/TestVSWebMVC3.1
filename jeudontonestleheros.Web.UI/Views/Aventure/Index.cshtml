@@ -1,0 +1,28 @@
+﻿@using jeudontonestlehero.Core.Data
+@model List<AventureViewModel> //List = Création d'un Liste d'aventure
+
+@{
+  
+}
+
+<h1 class="text-center">@ViewBag.MonTitre</h1>
+
+<div class="row justify-content-center">
+    <a class="btn btn-primary" asp-controller="Aventure" asp-action="Create">Nouvelle Aventures</a>
+</div>
+
+<h2 class="text-center small">Vos dernières avtentures</h2>
+
+<div class="container">
+    <div class="row justify-content-center">
+        @foreach (var aventure in Model)// Pour chaque aventure dans mon Model
+        {
+            <a href="#" div class="card m-1 text-center" style="width: 7rem;">
+                <div class="card-body">
+                    @aventure.Titre
+                </div>
+            </a>
+        }
+    </div>
+</div>
+

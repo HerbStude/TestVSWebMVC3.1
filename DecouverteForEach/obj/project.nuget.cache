@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XcBSNeXqw57Vd8rXVAHvszJTAz9Ozkgtykp4ja+Lx1XI1ZQuhDAu6pdA904vBlhmMHVbGBCarKQYUMhpfTXa4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ryclos\\source\\repos\\TestVSWebMVC3.1\\DecouverteForEach\\DecouverteForEach.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ryclos\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}

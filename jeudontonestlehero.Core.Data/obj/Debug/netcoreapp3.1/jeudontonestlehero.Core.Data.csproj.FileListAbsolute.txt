@@ -1,0 +1,9 @@
+C:\Users\Ryclos\source\repos\TestVSWebMVC3.1\jeudontonestlehero.Core.Data\bin\Debug\netcoreapp3.1\jeudontonestlehero.Core.Data.deps.json
+C:\Users\Ryclos\source\repos\TestVSWebMVC3.1\jeudontonestlehero.Core.Data\bin\Debug\netcoreapp3.1\jeudontonestlehero.Core.Data.dll
+C:\Users\Ryclos\source\repos\TestVSWebMVC3.1\jeudontonestlehero.Core.Data\bin\Debug\netcoreapp3.1\jeudontonestlehero.Core.Data.pdb
+C:\Users\Ryclos\source\repos\TestVSWebMVC3.1\jeudontonestlehero.Core.Data\obj\Debug\netcoreapp3.1\jeudontonestlehero.Core.Data.csprojAssemblyReference.cache
+C:\Users\Ryclos\source\repos\TestVSWebMVC3.1\jeudontonestlehero.Core.Data\obj\Debug\netcoreapp3.1\jeudontonestlehero.Core.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ryclos\source\repos\TestVSWebMVC3.1\jeudontonestlehero.Core.Data\obj\Debug\netcoreapp3.1\jeudontonestlehero.Core.Data.AssemblyInfoInputs.cache
+C:\Users\Ryclos\source\repos\TestVSWebMVC3.1\jeudontonestlehero.Core.Data\obj\Debug\netcoreapp3.1\jeudontonestlehero.Core.Data.AssemblyInfo.cs
+C:\Users\Ryclos\source\repos\TestVSWebMVC3.1\jeudontonestlehero.Core.Data\obj\Debug\netcoreapp3.1\jeudontonestlehero.Core.Data.dll
+C:\Users\Ryclos\source\repos\TestVSWebMVC3.1\jeudontonestlehero.Core.Data\obj\Debug\netcoreapp3.1\jeudontonestlehero.Core.Data.pdb

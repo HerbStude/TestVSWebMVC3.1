@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QGXyQbY6n9ofxISRgdGhbRhHfdHmCxweEKFm2kV8gBLMHoPsyQlVCyBglOq1V1Hlip4WZO4+N01hn7o9C45EcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ryclos\\source\\repos\\TestVSWebMVC3.1\\TestVSWebMVC3.1\\TestVSWebMVC3.1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ryclos\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
