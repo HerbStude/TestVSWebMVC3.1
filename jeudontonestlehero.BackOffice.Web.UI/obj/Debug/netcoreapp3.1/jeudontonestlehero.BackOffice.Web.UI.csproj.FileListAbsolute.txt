@@ -111,3 +111,5 @@ C:\Users\Ryclos\source\repos\TestVSWebMVC3.1\jeudontonestlehero.BackOffice.Web.U
 C:\Users\Ryclos\source\repos\TestVSWebMVC3.1\jeudontonestlehero.BackOffice.Web.UI\obj\Debug\netcoreapp3.1\jeudontonestlehero.BackOffice.Web.UI.csproj.CoreCompileInputs.cache
 C:\Users\Ryclos\source\repos\TestVSWebMVC3.1\jeudontonestlehero.BackOffice.Web.UI\obj\Debug\netcoreapp3.1\jeudontonestlehero.BackOffice.Web.UI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Ryclos\source\repos\TestVSWebMVC3.1\jeudontonestlehero.BackOffice.Web.UI\obj\Debug\netcoreapp3.1\Razor\Views\Paragraphe\Create.cshtml.g.cs
+C:\Users\Ryclos\source\repos\TestVSWebMVC3.1\jeudontonestlehero.BackOffice.Web.UI\obj\Debug\netcoreapp3.1\Razor\Views\Paragraphe\Index.cshtml.g.cs
+C:\Users\Ryclos\source\repos\TestVSWebMVC3.1\jeudontonestlehero.BackOffice.Web.UI\obj\Debug\netcoreapp3.1\Razor\Views\Paragraphe\Edit.cshtml.g.cs
